@@ -1,24 +1,13 @@
 #                                              千度智能
 ## 因梦而生，载梦而航
-### 本项目由汪俊择开发并维护
-
-- Bulleted
-- List
+###本项目由汪俊择开发并维护
+###目前所开发、维护的项目
+-千度智能教学（半完善）
+-千度网盘（1.0版本已推出，2.x正在开发）
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qianduzhineng/qianduzhineng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](url) and ![Image]
