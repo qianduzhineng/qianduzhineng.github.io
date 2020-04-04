@@ -73,9 +73,14 @@
     </div>
     <!-- HERO SECTION -->
     <div class="container-fluid hero">
-      <img src="images/hero.jpeg" alt="">
-      <div class="container">
-      <!--	
+      <!--<img src="images/hero.jpeg" alt="">
+      <div class="container"> -->
+      <img src="images/hero.jpeg" id="imgs" />
+
+var img = document.getElementById("imgs");
+img.style.display = "inline";
+setTimeout(function() {img.style.display = "none";},5000);
+	
         <h1>千度智能<br>Qiandu-Smart</h1>
 	<h3 style="color:black">特别缅怀：在抗击COVID-19疫情斗争中牺牲的烈士和逝世同胞<br>Special memory: Martyrs and dead compatriots who died in the fight against the covid-19 epidemic</h3>
 	<h4>根据国务院要求，我站将在4月4日自动播放防空警报</h4>	
