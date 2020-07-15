@@ -1,8 +1,8 @@
 {
-    "tell":"True",
-    "title":"紧急公告：由于腾讯云问题，分享功能出现严重安全漏洞，我们正在努力排查并修复，请您暂时不要使用分享功能，修复后请手动访问Github更新 更新地址https://github.com/qiandu-smart/QianDuNetworkDisk/releases/",
+    "tell":"False",
+    "title":"",
     "show":"True",
-    "showinfo":"紧急公告：由于腾讯云问题，分享功能出现严重安全漏洞，我们正在努力排查并修复，请您暂时不要使用分享功能，修复后请手动访问Github更新",
+    "showinfo":"远端强制下发提示测试中，请忽略",
     "run":"True",
     "notrunwhy":"程序暂时维护，无法启动，维护日期详见官网，请耐心等待"
 }
