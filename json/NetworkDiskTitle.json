@@ -1,8 +1,8 @@
 {
     "tell":"True",
-    "title":"放弃幻想，准备战斗",
-    "show":"True",
+    "title":"域名解析调整：2020年8月22日21:35起，本软件正式停用Coding Page，目前所涉及相关功能转移至Github Page+Netlify，本次调整为域名端调整，客户端无影响，感谢您的理解和支持",
+    "show":"False",
     "showinfo":"[远程API强制下发通告]通告：服务器暂时停机维护，预计维护时间未知",
-    "run":"False",
-    "notrunwhy":"由于对于Linux和OS X系统的多平台兼容性调试，系统将于2020年8月12日22:00停机维护，预计维护时长3天\n中途如有紧急事项，请发邮件至qianduzhineng@163.com\n感谢您的理解和配合，对此，我们深感歉意"
+    "run":"True",
+    "notrunwhy":""
 }
